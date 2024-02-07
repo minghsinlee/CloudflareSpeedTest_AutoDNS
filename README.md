@@ -1,0 +1,2 @@
+# CloudflareSpeedTest_AutoDNS
+基于CloudflareSpeedTest项目的全自动选线方案（免费，仅需cloudflare）
